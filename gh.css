@@ -187,7 +187,7 @@ a{text-decoration:none;color:#dddcd9;}
     
 }
 .hero-content h3{
-     font-size:40px;
+    font-size:20px;
     margin-bottom:20px;
     font-family: 'cinzel';
     color: #90b1b3;
@@ -571,7 +571,7 @@ body {font-family: cinzal; }
 .sana-footer {
   position:relative;
   background:
-    linear-gradient(180deg, #90b1b3 0%, #90b1b3 40%, #b6c9c3 100%);
+    linear-gradient(180deg, #1896a6 0%, #fae7b7 40%, #1896a6 100%);
   
   color:#fff;
   padding:60px 5% 25px;
@@ -594,7 +594,7 @@ body {font-family: cinzal; }
   font-size:34px;
   font-weight:800;
   letter-spacing:4px;
-  background:linear-gradient(180deg,#f3d98b,#c99b3f);
+  background:linear-gradient(180deg,#000000,#050505);
   -webkit-background-clip:text;
   background-clip:text;
   color:transparent;
@@ -602,15 +602,15 @@ body {font-family: cinzal; }
 }
   .logo-sub {
     font-size:13px;
-    color:#e3c584;
+    color:#000000;
     margin-top:4px;
     letter-spacing:1px;
   }
   .brand-tagline {
     margin-top:22px;
-    font-size:14px;
+    font-size:29px;
     line-height:1.9;
-    color:#d7dbe4;
+    color:#000000;
     max-width:230px;
   }
   .social-icons {
@@ -619,22 +619,22 @@ body {font-family: cinzal; }
     margin-top:24px;
   }
   .social-icons a {
-    width:34px; height:34px;
-    border:1px solid rgba(255,255,255,0.4);
+    width:50px; height:50px;
+    border:1px solid rgba(180, 176, 135, 0.479);
     border-radius:50%;
     display:flex; align-items:center; justify-content:center;
-    color:#fff; text-decoration:none;
+    color:#f8f8f8; text-decoration:none;
     font-size:14px;
     transition:.25s;
   }
-  .social-icons a:hover { background:#e3c584; border-color:#e3c584; color:#0c1830; }
+  .social-icons a:hover { background:#e3c584; border-color:#786949; color:#0c1830; }
 
   /* ----- Form column ----- */
   .form-col h3 {
     text-align:center;
     font-size:18px;
     font-weight:600;
-    color:#f3f3f0;
+    color:#010101;
     margin-bottom:22px;
     display:flex;
     align-items:center;
@@ -646,7 +646,7 @@ body {font-family: cinzal; }
     content:"";
     height:1px;
     width:60px;
-    background:rgba(230,200,140,0.5);
+    background:#e6c88c80;
   }
   .contact-form { display:flex; 
     flex-direction:column;
@@ -711,8 +711,8 @@ body {font-family: cinzal; }
     justify-content:flex-end;
     gap:12px;
     margin-bottom:16px;
-    font-size:14px;
-    color:#e6e9f0;
+    font-size:19px;
+    color:#000000;
     direction:rtl;
 }
 .info-item .icon {
