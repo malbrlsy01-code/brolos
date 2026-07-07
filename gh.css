@@ -751,6 +751,7 @@ body {font-family: cinzal; }
     cursor: pointer;
 }
 
+
 @media (max-width:900px)
  {
   .footer-grid { grid-template-columns:1fr; text-align:center; }
